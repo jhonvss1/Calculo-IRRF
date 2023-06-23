@@ -1,0 +1,15 @@
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\bin\Debug\net7.0\CalculoIRRF.exe
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\bin\Debug\net7.0\CalculoIRRF.deps.json
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\bin\Debug\net7.0\CalculoIRRF.runtimeconfig.json
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\bin\Debug\net7.0\CalculoIRRF.dll
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\bin\Debug\net7.0\CalculoIRRF.pdb
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.csproj.AssemblyReference.cache
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.AssemblyInfoInputs.cache
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.AssemblyInfo.cs
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.csproj.CoreCompileInputs.cache
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.dll
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\refint\CalculoIRRF.dll
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.pdb
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\CalculoIRRF.genruntimeconfig.cache
+C:\Users\jhons\OneDrive\Área de Trabalho\AULA C#\Calculadora de IRRF\CalculoIRRF\obj\Debug\net7.0\ref\CalculoIRRF.dll
